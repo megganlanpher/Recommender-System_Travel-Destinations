@@ -1,0 +1,228 @@
+AF|Afghanistan|652230
+AL|Albania|27398
+AG|Algeria|2381740
+AQ|American Samoa|197.759069
+AN|Andorra|468
+AO|Angola|1246700
+AV|Anguilla|91
+AC|Antigua and Barbuda|442.6
+AR|Argentina|2736690
+AM|Armenia|28203
+AA|Aruba|180
+AS|Australia|7682300
+AU|Austria|82445
+AJ|Azerbaijan|82629
+BF|Bahamas, The|10010
+BA|Bahrain|760
+BG|Bangladesh|130170
+BB|Barbados|430
+BO|Belarus|202900
+BE|Belgium|30278
+BH|Belize|22806
+BN|Benin|110622
+BD|Bermuda|54
+BT|Bhutan|38394
+BL|Bolivia|1083301
+BK|Bosnia and Herzegovina|51187
+BC|Botswana|566730
+BR|Brazil|8358140
+BX|Brunei|5265
+BU|Bulgaria|108489
+UV|Burkina Faso|273800
+BM|Burma|653508
+BY|Burundi|25680
+CV|Cabo Verde|4033
+CB|Cambodia|176515
+CM|Cameroon|472710
+CA|Canada|9093507
+CJ|Cayman Islands|264
+CT|Central African Republic|622984
+CD|Chad|1259200
+CI|Chile|743812
+CH|China|9326410
+CO|Colombia|1038700
+CN|Comoros|2235
+CF|Congo (Brazzaville)|341500
+CG|Congo (Kinshasa)|2267048
+CW|Cook Islands|236
+CS|Costa Rica|51060
+IV|Cote d'Ivoire|318003
+HR|Croatia|55974
+CU|Cuba|109820
+UC|Curacao|444
+CY|Cyprus|9241
+EZ|Czechia|77247
+DA|Denmark|42434
+DJ|Djibouti|23180
+DO|Dominica|751
+DR|Dominican Republic|48320
+EC|Ecuador|276841
+EG|Egypt|995450
+ES|El Salvador|20721
+EK|Equatorial Guinea|28051
+ER|Eritrea|101000
+EN|Estonia|42388
+WZ|Eswatini|17204
+ET|Ethiopia|1096570
+FO|Faroe Islands|1393
+FJ|Fiji|18274
+FI|Finland|303815
+FR|France|640427
+FP|French Polynesia|3827
+GB|Gabon|257667
+GA|Gambia, The|10120
+GZ|Gaza Strip|360
+GG|Georgia|69700
+GM|Germany|348672
+GH|Ghana|227533
+GI|Gibraltar|6.5
+GR|Greece|130647
+GL|Greenland|2166086
+GJ|Grenada|344
+GQ|Guam|543.555844
+GT|Guatemala|107159
+GK|Guernsey|78
+GV|Guinea|245717
+PU|Guinea-Bissau|28120
+GY|Guyana|196849
+HA|Haiti|27560
+HO|Honduras|111890
+HK|Hong Kong|1073
+HU|Hungary|89608
+IC|Iceland|100250
+IN|India|2973193
+ID|Indonesia|1811569
+IR|Iran|1531595
+IZ|Iraq|437367
+EI|Ireland|68883
+IM|Isle of Man|572
+IS|Israel|21497
+IT|Italy|294140
+JM|Jamaica|10831
+JA|Japan|364485
+JE|Jersey|116
+JO|Jordan|88802
+KZ|Kazakhstan|2699700
+KE|Kenya|569140
+KR|Kiribati|811
+KN|Korea, North|120408
+KS|Korea, South|96920
+KV|Kosovo|10887
+KU|Kuwait|17818
+KG|Kyrgyzstan|191801
+LA|Laos|230800
+LG|Latvia|62249
+LE|Lebanon|10230
+LT|Lesotho|30355
+LI|Liberia|96320
+LY|Libya|1759540
+LS|Liechtenstein|160
+LH|Lithuania|62680
+LU|Luxembourg|2586
+MC|Macau|28.2
+MA|Madagascar|581540
+MI|Malawi|94080
+MY|Malaysia|328657
+MV|Maldives|298
+ML|Mali|1220190
+MT|Malta|316
+RM|Marshall Islands|181
+MR|Mauritania|1030700
+MP|Mauritius|2030
+MX|Mexico|1943945
+FM|Micronesia, Federated States of|702
+MD|Moldova|32891
+MN|Monaco|2
+MG|Mongolia|1553556
+MJ|Montenegro|13452
+MH|Montserrat|102
+MO|Morocco|446300
+MZ|Mozambique|786380
+WA|Namibia|823290
+NR|Nauru|21
+NP|Nepal|143351
+NL|Netherlands|33893
+NC|New Caledonia|18275
+NZ|New Zealand|264537
+NU|Nicaragua|119990
+NG|Niger|1266700
+NI|Nigeria|910768
+MK|North Macedonia|25433
+CQ|Northern Mariana Islands|472.292529
+NO|Norway|304282
+MU|Oman|309500
+PK|Pakistan|770875
+PS|Palau|459
+PM|Panama|74340
+PP|Papua New Guinea|452860
+PA|Paraguay|397302
+PE|Peru|1279996
+RP|Philippines|298170
+PL|Poland|304255
+PO|Portugal|91470
+RQ|Puerto Rico|8868.701898
+QA|Qatar|11586
+RO|Romania|229891
+RS|Russia|16377742
+RW|Rwanda|24668
+TB|Saint Barthelemy|25
+SH|Saint Helena, Ascension, and Tristan da Cunha|394
+SC|Saint Kitts and Nevis|261
+ST|Saint Lucia|606
+RN|Saint Martin|54.4
+SB|Saint Pierre and Miquelon|242
+VC|Saint Vincent and the Grenadines|389
+WS|Samoa|2821
+SM|San Marino|61
+TP|Sao Tome and Principe|964
+SA|Saudi Arabia|2149690
+SG|Senegal|192530
+RI|Serbia|77474
+SE|Seychelles|455
+SL|Sierra Leone|71620
+SN|Singapore|709.2
+NN|Sint Maarten|34
+LO|Slovakia|48105
+SI|Slovenia|20151
+BP|Solomon Islands|27986
+SO|Somalia|627337
+SF|South Africa|1214470
+OD|South Sudan|644329
+SP|Spain|498980
+CE|Sri Lanka|64630
+SU|Sudan|1861484
+NS|Suriname|156000
+SW|Sweden|410335
+SZ|Switzerland|39997
+SY|Syria|185887
+TW|Taiwan|32260
+TI|Tajikistan|141510
+TZ|Tanzania|885800
+TH|Thailand|510890
+TT|Timor-Leste|14874
+TO|Togo|54385
+TN|Tonga|717
+TD|Trinidad and Tobago|5128
+TS|Tunisia|155360
+TU|Turkey|769632
+TX|Turkmenistan|469930
+TK|Turks and Caicos Islands|948
+TV|Tuvalu|26
+UG|Uganda|197100
+UP|Ukraine|579330
+AE|United Arab Emirates|83600
+UK|United Kingdom|241930
+US|United States|9149429
+UY|Uruguay|175015
+UZ|Uzbekistan|425400
+NH|Vanuatu|12189
+VE|Venezuela|882050
+VM|Vietnam|310070
+VI|Virgin Islands, British|151
+VQ|Virgin Islands, U.S.|348.021896
+WF|Wallis and Futuna|142
+WE|West Bank|5640
+WI|Western Sahara|266000
+YM|Yemen|527968
+ZA|Zambia|743398
+ZI|Zimbabwe|386847

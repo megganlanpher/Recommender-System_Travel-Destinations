@@ -1,0 +1,1169 @@
+08:25:17,919 webscraper INFO Searching New Zealand...
+08:25:17,922 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:17,982 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /New%20Zealand HTTP/1.1" 301 None
+08:25:18,2 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /New%20Zealand/ HTTP/1.1" 200 None
+08:25:18,5 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:18,69 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand HTTP/1.1" 200 None
+08:25:28,114 webscraper INFO ... 1 pages of filed articles ...
+08:25:28,115 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:28,192 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /New%20Zealand/?page=0 HTTP/1.1" 200 None
+08:25:38,220 webscraper INFO ... and 7 pages of searched articles ...
+08:25:38,222 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:38,284 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=0 HTTP/1.1" 200 None
+08:25:48,315 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:48,378 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=1 HTTP/1.1" 200 None
+08:25:58,408 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:25:58,472 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=2 HTTP/1.1" 200 None
+08:26:08,502 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:08,688 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=3 HTTP/1.1" 200 None
+08:26:18,719 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:18,900 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=4 HTTP/1.1" 200 None
+08:26:28,930 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:29,153 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=5 HTTP/1.1" 200 None
+08:26:39,183 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:39,384 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=New%20Zealand&page=6 HTTP/1.1" 200 None
+08:26:49,435 webscraper INFO SAVING FILES FOR New Zealand
+08:26:49,531 webscraper INFO Searching Oman...
+08:26:49,532 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:49,591 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Oman HTTP/1.1" 301 None
+08:26:49,711 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Oman/ HTTP/1.1" 200 None
+08:26:49,714 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:26:49,883 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Oman HTTP/1.1" 200 None
+08:26:59,924 webscraper INFO ... 1 pages of filed articles ...
+08:26:59,926 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:00,179 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Oman/?page=0 HTTP/1.1" 200 None
+08:27:10,204 webscraper INFO ... and 2 pages of searched articles ...
+08:27:10,206 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:10,407 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Oman&page=0 HTTP/1.1" 200 None
+08:27:20,437 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:20,605 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Oman&page=1 HTTP/1.1" 200 None
+08:27:30,634 webscraper INFO SAVING FILES FOR Oman
+08:27:30,728 webscraper INFO Searching Panama...
+08:27:30,729 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:30,806 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Panama HTTP/1.1" 301 None
+08:27:30,897 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Panama/ HTTP/1.1" 200 None
+08:27:30,900 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:31,71 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Panama HTTP/1.1" 200 None
+08:27:41,112 webscraper INFO ... 1 pages of filed articles ...
+08:27:41,113 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:41,251 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Panama/?page=0 HTTP/1.1" 200 None
+08:27:51,275 webscraper INFO ... and 3 pages of searched articles ...
+08:27:51,277 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:27:51,464 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Panama&page=0 HTTP/1.1" 200 None
+08:28:01,494 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:01,700 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Panama&page=1 HTTP/1.1" 200 None
+08:28:11,730 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:11,902 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Panama&page=2 HTTP/1.1" 200 None
+08:28:21,931 webscraper INFO SAVING FILES FOR Panama
+08:28:22,27 webscraper INFO Searching Peru...
+08:28:22,28 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:22,88 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Peru HTTP/1.1" 301 None
+08:28:22,360 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Peru/ HTTP/1.1" 200 None
+08:28:22,363 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:22,578 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru HTTP/1.1" 200 None
+08:28:32,629 webscraper INFO ... 1 pages of filed articles ...
+08:28:32,630 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:32,937 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Peru/?page=0 HTTP/1.1" 200 None
+08:28:42,971 webscraper INFO ... and 7 pages of searched articles ...
+08:28:42,972 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:43,180 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=0 HTTP/1.1" 200 None
+08:28:53,206 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:28:53,381 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=1 HTTP/1.1" 200 None
+08:29:03,412 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:03,607 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=2 HTTP/1.1" 200 None
+08:29:13,636 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:13,823 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=3 HTTP/1.1" 200 None
+08:29:23,852 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:24,59 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=4 HTTP/1.1" 200 None
+08:29:34,90 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:34,306 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=5 HTTP/1.1" 200 None
+08:29:44,336 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:44,560 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Peru&page=6 HTTP/1.1" 200 None
+08:29:54,589 webscraper INFO SAVING FILES FOR Peru
+08:29:54,686 webscraper INFO Searching French Polynesia...
+08:29:54,688 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:54,748 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /French%20Polynesia HTTP/1.1" 301 None
+08:29:54,873 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /French%20Polynesia/ HTTP/1.1" 200 None
+08:29:54,877 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:29:55,126 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=French%20Polynesia HTTP/1.1" 200 None
+08:30:05,168 webscraper INFO ... 1 pages of filed articles ...
+08:30:05,170 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:05,345 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /French%20Polynesia/?page=0 HTTP/1.1" 200 None
+08:30:15,370 webscraper INFO ... and 3 pages of searched articles ...
+08:30:15,372 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:15,560 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=French%20Polynesia&page=0 HTTP/1.1" 200 None
+08:30:25,590 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:25,760 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=French%20Polynesia&page=1 HTTP/1.1" 200 None
+08:30:35,791 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:35,991 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=French%20Polynesia&page=2 HTTP/1.1" 200 None
+08:30:46,19 webscraper INFO SAVING FILES FOR French Polynesia
+08:30:46,119 webscraper INFO Searching Philippines...
+08:30:46,121 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:46,182 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Philippines HTTP/1.1" 301 None
+08:30:46,293 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Philippines/ HTTP/1.1" 200 None
+08:30:46,296 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:46,469 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Philippines HTTP/1.1" 200 None
+08:30:56,509 webscraper INFO ... 1 pages of filed articles ...
+08:30:56,511 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:30:56,664 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Philippines/?page=0 HTTP/1.1" 200 None
+08:31:06,688 webscraper INFO ... and 2 pages of searched articles ...
+08:31:06,689 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:06,863 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Philippines&page=0 HTTP/1.1" 200 None
+08:31:16,893 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:17,100 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Philippines&page=1 HTTP/1.1" 200 None
+08:31:27,128 webscraper INFO SAVING FILES FOR Philippines
+08:31:27,225 webscraper INFO Searching Pakistan...
+08:31:27,226 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:27,289 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Pakistan HTTP/1.1" 301 None
+08:31:27,343 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Pakistan/ HTTP/1.1" 404 None
+08:31:27,346 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:27,527 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Pakistan HTTP/1.1" 200 None
+08:31:37,561 webscraper INFO ... 1 pages of filed articles ...
+08:31:37,562 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:37,666 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Pakistan/?page=0 HTTP/1.1" 404 None
+08:31:47,685 webscraper INFO ... and 1 pages of searched articles ...
+08:31:47,686 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:47,869 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Pakistan&page=0 HTTP/1.1" 200 None
+08:31:57,897 webscraper INFO SAVING FILES FOR Pakistan
+08:31:57,993 webscraper INFO Searching Poland...
+08:31:57,995 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:58,56 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Poland HTTP/1.1" 301 None
+08:31:58,167 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Poland/ HTTP/1.1" 200 None
+08:31:58,170 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:31:58,376 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Poland HTTP/1.1" 200 None
+08:32:08,451 webscraper INFO ... 1 pages of filed articles ...
+08:32:08,453 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:08,592 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Poland/?page=0 HTTP/1.1" 200 None
+08:32:18,615 webscraper INFO ... and 3 pages of searched articles ...
+08:32:18,617 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:18,811 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Poland&page=0 HTTP/1.1" 200 None
+08:32:28,841 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:29,34 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Poland&page=1 HTTP/1.1" 200 None
+08:32:39,65 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:39,282 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Poland&page=2 HTTP/1.1" 200 None
+08:32:49,310 webscraper INFO SAVING FILES FOR Poland
+08:32:49,409 webscraper INFO Searching Puerto Rico...
+08:32:49,410 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:49,469 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Puerto%20Rico HTTP/1.1" 301 None
+08:32:49,581 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Puerto%20Rico/ HTTP/1.1" 200 None
+08:32:49,585 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:49,749 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Puerto%20Rico HTTP/1.1" 200 None
+08:32:59,791 webscraper INFO ... 1 pages of filed articles ...
+08:32:59,794 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:32:59,976 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Puerto%20Rico/?page=0 HTTP/1.1" 200 None
+08:33:10,1 webscraper INFO ... and 3 pages of searched articles ...
+08:33:10,3 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:10,176 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Puerto%20Rico&page=0 HTTP/1.1" 200 None
+08:33:20,206 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:20,389 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Puerto%20Rico&page=1 HTTP/1.1" 200 None
+08:33:30,420 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:30,592 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Puerto%20Rico&page=2 HTTP/1.1" 200 None
+08:33:40,620 webscraper INFO SAVING FILES FOR Puerto Rico
+08:33:40,719 webscraper INFO Searching Portugal...
+08:33:40,720 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:40,797 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Portugal HTTP/1.1" 301 None
+08:33:41,46 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Portugal/ HTTP/1.1" 200 None
+08:33:41,49 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:41,223 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal HTTP/1.1" 200 None
+08:33:51,273 webscraper INFO ... 2 pages of filed articles ...
+08:33:51,275 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:33:51,587 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Portugal/?page=0 HTTP/1.1" 200 None
+08:34:01,622 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:01,953 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Portugal/?page=1 HTTP/1.1" 200 None
+08:34:11,979 webscraper INFO ... and 8 pages of searched articles ...
+08:34:11,980 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:12,150 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=0 HTTP/1.1" 200 None
+08:34:22,179 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:22,351 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=1 HTTP/1.1" 200 None
+08:34:32,381 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:32,562 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=2 HTTP/1.1" 200 None
+08:34:42,592 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:42,790 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=3 HTTP/1.1" 200 None
+08:34:52,821 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:34:53,5 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=4 HTTP/1.1" 200 None
+08:35:03,34 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:03,232 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=5 HTTP/1.1" 200 None
+08:35:13,261 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:13,453 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=6 HTTP/1.1" 200 None
+08:35:23,482 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:23,688 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Portugal&page=7 HTTP/1.1" 200 None
+08:35:33,717 webscraper INFO SAVING FILES FOR Portugal
+08:35:33,816 webscraper INFO Searching Paraguay...
+08:35:33,817 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:33,879 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Paraguay HTTP/1.1" 301 None
+08:35:33,950 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Paraguay/ HTTP/1.1" 404 None
+08:35:33,953 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:34,69 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Paraguay HTTP/1.1" 200 None
+08:35:44,101 webscraper INFO ... 1 pages of filed articles ...
+08:35:44,102 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:44,244 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Paraguay/?page=0 HTTP/1.1" 404 None
+08:35:54,264 webscraper INFO ... and 1 pages of searched articles ...
+08:35:54,265 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:35:54,434 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Paraguay&page=0 HTTP/1.1" 200 None
+08:36:04,458 webscraper INFO SAVING FILES FOR Paraguay
+08:36:04,559 webscraper INFO Searching Qatar...
+08:36:04,560 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:04,620 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Qatar HTTP/1.1" 301 None
+08:36:04,746 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Qatar/ HTTP/1.1" 200 None
+08:36:04,750 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:04,945 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Qatar HTTP/1.1" 200 None
+08:36:14,984 webscraper INFO ... 1 pages of filed articles ...
+08:36:14,985 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:15,139 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Qatar/?page=0 HTTP/1.1" 200 None
+08:36:25,164 webscraper INFO ... and 2 pages of searched articles ...
+08:36:25,165 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:25,357 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Qatar&page=0 HTTP/1.1" 200 None
+08:36:35,387 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:35,574 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Qatar&page=1 HTTP/1.1" 200 None
+08:36:45,602 webscraper INFO SAVING FILES FOR Qatar
+08:36:45,702 webscraper INFO Searching Reunion...
+08:36:45,704 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:45,774 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Reunion HTTP/1.1" 301 None
+08:36:45,825 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Reunion/ HTTP/1.1" 404 None
+08:36:45,828 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:45,990 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Reunion HTTP/1.1" 200 None
+08:36:56,27 webscraper INFO ... 1 pages of filed articles ...
+08:36:56,28 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:36:56,156 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Reunion/?page=0 HTTP/1.1" 404 None
+08:37:06,175 webscraper INFO ... and 2 pages of searched articles ...
+08:37:06,176 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:06,347 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Reunion&page=0 HTTP/1.1" 200 None
+08:37:16,377 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:16,543 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Reunion&page=1 HTTP/1.1" 200 None
+08:37:26,572 webscraper INFO SAVING FILES FOR Reunion
+08:37:26,673 webscraper INFO Searching Romania...
+08:37:26,674 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:26,773 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Romania HTTP/1.1" 301 None
+08:37:26,843 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Romania/ HTTP/1.1" 404 None
+08:37:26,846 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:26,990 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Romania HTTP/1.1" 200 None
+08:37:37,23 webscraper INFO ... 1 pages of filed articles ...
+08:37:37,25 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:37,138 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Romania/?page=0 HTTP/1.1" 404 None
+08:37:47,157 webscraper INFO ... and 1 pages of searched articles ...
+08:37:47,158 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:47,351 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Romania&page=0 HTTP/1.1" 200 None
+08:37:57,376 webscraper INFO SAVING FILES FOR Romania
+08:37:57,476 webscraper INFO Searching Serbia...
+08:37:57,477 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:57,539 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Serbia HTTP/1.1" 301 None
+08:37:57,623 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Serbia/ HTTP/1.1" 200 None
+08:37:57,626 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:37:57,794 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Serbia HTTP/1.1" 200 None
+08:38:07,829 webscraper INFO ... 1 pages of filed articles ...
+08:38:07,832 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:07,954 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Serbia/?page=0 HTTP/1.1" 200 None
+08:38:17,976 webscraper INFO ... and 1 pages of searched articles ...
+08:38:17,977 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:18,149 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Serbia&page=0 HTTP/1.1" 200 None
+08:38:28,174 webscraper INFO SAVING FILES FOR Serbia
+08:38:28,276 webscraper INFO Searching Russia...
+08:38:28,277 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:28,340 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Russia HTTP/1.1" 301 None
+08:38:28,477 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Russia/ HTTP/1.1" 200 None
+08:38:28,480 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:28,650 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia HTTP/1.1" 200 None
+08:38:38,693 webscraper INFO ... 1 pages of filed articles ...
+08:38:38,694 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:38,909 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Russia/?page=0 HTTP/1.1" 200 None
+08:38:48,936 webscraper INFO ... and 6 pages of searched articles ...
+08:38:48,937 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:49,116 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=0 HTTP/1.1" 200 None
+08:38:59,145 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:38:59,324 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=1 HTTP/1.1" 200 None
+08:39:09,355 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:09,539 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=2 HTTP/1.1" 200 None
+08:39:19,568 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:19,771 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=3 HTTP/1.1" 200 None
+08:39:29,800 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:29,998 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=4 HTTP/1.1" 200 None
+08:39:40,29 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:40,228 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Russia&page=5 HTTP/1.1" 200 None
+08:39:50,257 webscraper INFO SAVING FILES FOR Russia
+08:39:50,359 webscraper INFO Searching Rwanda...
+08:39:50,361 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:50,435 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Rwanda HTTP/1.1" 301 None
+08:39:50,550 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Rwanda/ HTTP/1.1" 200 None
+08:39:50,553 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:39:50,720 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Rwanda HTTP/1.1" 200 None
+08:40:00,762 webscraper INFO ... 1 pages of filed articles ...
+08:40:00,763 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:00,922 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Rwanda/?page=0 HTTP/1.1" 200 None
+08:40:10,947 webscraper INFO ... and 3 pages of searched articles ...
+08:40:10,949 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:11,151 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Rwanda&page=0 HTTP/1.1" 200 None
+08:40:21,180 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:21,356 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Rwanda&page=1 HTTP/1.1" 200 None
+08:40:31,386 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:31,621 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Rwanda&page=2 HTTP/1.1" 200 None
+08:40:41,649 webscraper INFO SAVING FILES FOR Rwanda
+08:40:41,752 webscraper INFO Searching Saudi Arabia...
+08:40:41,753 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:41,813 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Saudi%20Arabia HTTP/1.1" 301 None
+08:40:41,868 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Saudi%20Arabia/ HTTP/1.1" 200 None
+08:40:41,872 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:42,4 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Saudi%20Arabia HTTP/1.1" 200 None
+08:40:52,39 webscraper INFO ... 1 pages of filed articles ...
+08:40:52,40 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:40:52,180 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Saudi%20Arabia/?page=0 HTTP/1.1" 200 None
+08:41:02,201 webscraper INFO ... and 1 pages of searched articles ...
+08:41:02,203 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:02,343 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Saudi%20Arabia&page=0 HTTP/1.1" 200 None
+08:41:12,369 webscraper INFO SAVING FILES FOR Saudi Arabia
+08:41:12,473 webscraper INFO Searching Seychelles...
+08:41:12,475 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:12,533 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Seychelles HTTP/1.1" 301 None
+08:41:12,616 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Seychelles/ HTTP/1.1" 200 None
+08:41:12,619 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:12,785 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Seychelles HTTP/1.1" 200 None
+08:41:22,820 webscraper INFO ... 1 pages of filed articles ...
+08:41:22,821 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:22,940 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Seychelles/?page=0 HTTP/1.1" 200 None
+08:41:32,962 webscraper INFO ... and 1 pages of searched articles ...
+08:41:32,963 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:33,119 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Seychelles&page=0 HTTP/1.1" 200 None
+08:41:43,145 webscraper INFO SAVING FILES FOR Seychelles
+08:41:43,246 webscraper INFO Searching Sudan...
+08:41:43,247 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:43,308 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sudan HTTP/1.1" 301 None
+08:41:43,361 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sudan/ HTTP/1.1" 404 None
+08:41:43,364 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:43,531 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sudan HTTP/1.1" 200 None
+08:41:53,565 webscraper INFO ... 1 pages of filed articles ...
+08:41:53,566 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:41:53,674 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sudan/?page=0 HTTP/1.1" 404 None
+08:42:03,693 webscraper INFO ... and 1 pages of searched articles ...
+08:42:03,694 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:03,854 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sudan&page=0 HTTP/1.1" 200 None
+08:42:13,880 webscraper INFO SAVING FILES FOR Sudan
+08:42:13,984 webscraper INFO Searching Sweden...
+08:42:13,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:14,44 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sweden HTTP/1.1" 301 None
+08:42:14,304 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sweden/ HTTP/1.1" 200 None
+08:42:14,307 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:14,477 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden HTTP/1.1" 200 None
+08:42:24,527 webscraper INFO ... 1 pages of filed articles ...
+08:42:24,528 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:24,831 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sweden/?page=0 HTTP/1.1" 200 None
+08:42:34,865 webscraper INFO ... and 8 pages of searched articles ...
+08:42:34,866 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:35,73 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=0 HTTP/1.1" 200 None
+08:42:45,103 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:45,284 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=1 HTTP/1.1" 200 None
+08:42:55,313 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:42:55,509 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=2 HTTP/1.1" 200 None
+08:43:05,577 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:05,756 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=3 HTTP/1.1" 200 None
+08:43:15,786 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:15,962 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=4 HTTP/1.1" 200 None
+08:43:25,992 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:26,165 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=5 HTTP/1.1" 200 None
+08:43:36,195 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:36,420 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=6 HTTP/1.1" 200 None
+08:43:46,442 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:46,636 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sweden&page=7 HTTP/1.1" 200 None
+08:43:56,665 webscraper INFO SAVING FILES FOR Sweden
+08:43:56,771 webscraper INFO Searching Singapore...
+08:43:56,772 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:56,842 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Singapore HTTP/1.1" 301 None
+08:43:57,64 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Singapore/ HTTP/1.1" 200 None
+08:43:57,68 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:43:57,254 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore HTTP/1.1" 200 None
+08:44:07,302 webscraper INFO ... 1 pages of filed articles ...
+08:44:07,303 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:07,581 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Singapore/?page=0 HTTP/1.1" 200 None
+08:44:17,613 webscraper INFO ... and 9 pages of searched articles ...
+08:44:17,615 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:17,806 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=0 HTTP/1.1" 200 None
+08:44:27,837 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:28,9 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=1 HTTP/1.1" 200 None
+08:44:38,38 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:38,219 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=2 HTTP/1.1" 200 None
+08:44:48,248 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:48,418 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=3 HTTP/1.1" 200 None
+08:44:58,449 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:44:58,654 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=4 HTTP/1.1" 200 None
+08:45:08,684 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:08,874 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=5 HTTP/1.1" 200 None
+08:45:18,904 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:19,85 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=6 HTTP/1.1" 200 None
+08:45:29,115 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:29,297 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=7 HTTP/1.1" 200 None
+08:45:39,327 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:39,526 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Singapore&page=8 HTTP/1.1" 200 None
+08:45:49,554 webscraper INFO SAVING FILES FOR Singapore
+08:45:49,661 webscraper INFO Searching Slovenia...
+08:45:49,662 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:49,721 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovenia HTTP/1.1" 301 None
+08:45:49,846 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovenia/ HTTP/1.1" 200 None
+08:45:49,849 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:45:50,90 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Slovenia HTTP/1.1" 200 None
+08:46:00,131 webscraper INFO ... 1 pages of filed articles ...
+08:46:00,132 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:00,308 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovenia/?page=0 HTTP/1.1" 200 None
+08:46:10,333 webscraper INFO ... and 2 pages of searched articles ...
+08:46:10,334 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:10,509 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Slovenia&page=0 HTTP/1.1" 200 None
+08:46:20,538 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:20,730 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Slovenia&page=1 HTTP/1.1" 200 None
+08:46:30,762 webscraper INFO SAVING FILES FOR Slovenia
+08:46:30,869 webscraper INFO Searching Slovakia...
+08:46:30,870 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:30,931 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovakia HTTP/1.1" 301 None
+08:46:30,982 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovakia/ HTTP/1.1" 404 None
+08:46:30,985 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:31,115 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Slovakia HTTP/1.1" 200 None
+08:46:41,145 webscraper INFO ... 1 pages of filed articles ...
+08:46:41,147 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:41,245 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Slovakia/?page=0 HTTP/1.1" 404 None
+08:46:51,264 webscraper INFO ... and 1 pages of searched articles ...
+08:46:51,266 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:46:51,411 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Slovakia&page=0 HTTP/1.1" 200 None
+08:47:01,435 webscraper INFO SAVING FILES FOR Slovakia
+08:47:01,540 webscraper INFO Searching Sierra Leone...
+08:47:01,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:01,620 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sierra%20Leone HTTP/1.1" 301 None
+08:47:01,681 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sierra%20Leone/ HTTP/1.1" 404 None
+08:47:01,685 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:01,798 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sierra%20Leone HTTP/1.1" 200 None
+08:47:11,829 webscraper INFO ... 1 pages of filed articles ...
+08:47:11,830 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:11,932 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Sierra%20Leone/?page=0 HTTP/1.1" 404 None
+08:47:21,951 webscraper INFO ... and 1 pages of searched articles ...
+08:47:21,954 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:22,70 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Sierra%20Leone&page=0 HTTP/1.1" 200 None
+08:47:32,92 webscraper INFO SAVING FILES FOR Sierra Leone
+08:47:32,200 webscraper INFO Searching San Marino...
+08:47:32,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:32,261 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /San%20Marino HTTP/1.1" 301 None
+08:47:32,312 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /San%20Marino/ HTTP/1.1" 404 None
+08:47:32,315 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:32,428 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=San%20Marino HTTP/1.1" 200 None
+08:47:42,457 webscraper INFO ... 1 pages of filed articles ...
+08:47:42,459 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:42,561 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /San%20Marino/?page=0 HTTP/1.1" 404 None
+08:47:52,581 webscraper INFO ... and 1 pages of searched articles ...
+08:47:52,584 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:47:52,705 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=San%20Marino&page=0 HTTP/1.1" 200 None
+08:48:02,728 webscraper INFO SAVING FILES FOR San Marino
+08:48:02,833 webscraper INFO Searching Senegal...
+08:48:02,835 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:02,905 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Senegal HTTP/1.1" 301 None
+08:48:02,987 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Senegal/ HTTP/1.1" 200 None
+08:48:02,990 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:03,124 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Senegal HTTP/1.1" 200 None
+08:48:13,158 webscraper INFO ... 1 pages of filed articles ...
+08:48:13,160 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:13,277 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Senegal/?page=0 HTTP/1.1" 200 None
+08:48:23,299 webscraper INFO ... and 1 pages of searched articles ...
+08:48:23,302 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:23,433 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Senegal&page=0 HTTP/1.1" 200 None
+08:48:33,459 webscraper INFO SAVING FILES FOR Senegal
+08:48:33,566 webscraper INFO Searching Suriname...
+08:48:33,567 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:33,626 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Suriname HTTP/1.1" 301 None
+08:48:33,696 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Suriname/ HTTP/1.1" 404 None
+08:48:33,699 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:33,800 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Suriname HTTP/1.1" 200 None
+08:48:43,829 webscraper INFO ... 1 pages of filed articles ...
+08:48:43,831 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:43,947 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Suriname/?page=0 HTTP/1.1" 404 None
+08:48:53,967 webscraper INFO ... and 1 pages of searched articles ...
+08:48:53,969 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:48:54,80 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Suriname&page=0 HTTP/1.1" 200 None
+08:49:04,102 webscraper INFO SAVING FILES FOR Suriname
+08:49:04,207 webscraper INFO Searching El Salvador...
+08:49:04,209 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:04,280 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /El%20Salvador HTTP/1.1" 301 None
+08:49:04,377 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /El%20Salvador/ HTTP/1.1" 200 None
+08:49:04,381 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:04,555 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=El%20Salvador HTTP/1.1" 200 None
+08:49:14,632 webscraper INFO ... 1 pages of filed articles ...
+08:49:14,633 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:14,744 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /El%20Salvador/?page=0 HTTP/1.1" 200 None
+08:49:24,766 webscraper INFO ... and 2 pages of searched articles ...
+08:49:24,769 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:24,975 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=El%20Salvador&page=0 HTTP/1.1" 200 None
+08:49:35,5 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:35,203 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=El%20Salvador&page=1 HTTP/1.1" 200 None
+08:49:45,233 webscraper INFO SAVING FILES FOR El Salvador
+08:49:45,341 webscraper INFO Searching Syria...
+08:49:45,342 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:45,407 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Syria HTTP/1.1" 301 None
+08:49:45,491 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Syria/ HTTP/1.1" 200 None
+08:49:45,495 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:45,661 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Syria HTTP/1.1" 200 None
+08:49:55,700 webscraper INFO ... 1 pages of filed articles ...
+08:49:55,702 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:49:55,828 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Syria/?page=0 HTTP/1.1" 200 None
+08:50:05,851 webscraper INFO ... and 3 pages of searched articles ...
+08:50:05,852 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:06,52 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Syria&page=0 HTTP/1.1" 200 None
+08:50:16,74 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:16,265 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Syria&page=1 HTTP/1.1" 200 None
+08:50:26,295 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:26,498 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Syria&page=2 HTTP/1.1" 200 None
+08:50:36,526 webscraper INFO SAVING FILES FOR Syria
+08:50:36,635 webscraper INFO Searching Chad...
+08:50:36,637 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:36,697 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Chad HTTP/1.1" 301 None
+08:50:36,750 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Chad/ HTTP/1.1" 404 None
+08:50:36,754 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:36,891 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Chad HTTP/1.1" 200 None
+08:50:46,924 webscraper INFO ... 1 pages of filed articles ...
+08:50:46,925 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:47,49 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Chad/?page=0 HTTP/1.1" 404 None
+08:50:57,68 webscraper INFO ... and 1 pages of searched articles ...
+08:50:57,71 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:50:57,221 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Chad&page=0 HTTP/1.1" 200 None
+08:51:07,246 webscraper INFO SAVING FILES FOR Chad
+08:51:07,355 webscraper INFO Searching Togo...
+08:51:07,356 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:07,428 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Togo HTTP/1.1" 301 None
+08:51:07,479 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Togo/ HTTP/1.1" 404 None
+08:51:07,482 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:07,618 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Togo HTTP/1.1" 200 None
+08:51:17,648 webscraper INFO ... 1 pages of filed articles ...
+08:51:17,649 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:17,749 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Togo/?page=0 HTTP/1.1" 404 None
+08:51:27,769 webscraper INFO ... and 1 pages of searched articles ...
+08:51:27,772 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:27,886 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Togo&page=0 HTTP/1.1" 200 None
+08:51:37,908 webscraper INFO SAVING FILES FOR Togo
+08:51:38,17 webscraper INFO Searching Thailand...
+08:51:38,18 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:38,79 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Thailand HTTP/1.1" 301 None
+08:51:38,338 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Thailand/ HTTP/1.1" 200 None
+08:51:38,342 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:38,510 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand HTTP/1.1" 200 None
+08:51:48,561 webscraper INFO ... 2 pages of filed articles ...
+08:51:48,562 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:48,906 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Thailand/?page=0 HTTP/1.1" 200 None
+08:51:58,942 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:51:59,267 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Thailand/?page=1 HTTP/1.1" 200 None
+08:52:09,301 webscraper INFO ... and 9 pages of searched articles ...
+08:52:09,303 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:52:09,484 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=0 HTTP/1.1" 200 None
+08:52:19,514 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:52:19,694 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=1 HTTP/1.1" 200 None
+08:52:29,723 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:52:29,917 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=2 HTTP/1.1" 200 None
+08:52:39,946 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:52:40,169 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=3 HTTP/1.1" 200 None
+08:52:50,199 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:52:50,393 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=4 HTTP/1.1" 200 None
+08:53:00,422 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:00,610 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=5 HTTP/1.1" 200 None
+08:53:10,640 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:10,856 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=6 HTTP/1.1" 200 None
+08:53:20,886 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:21,77 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=7 HTTP/1.1" 200 None
+08:53:31,107 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:31,285 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Thailand&page=8 HTTP/1.1" 200 None
+08:53:41,314 webscraper INFO SAVING FILES FOR Thailand
+08:53:41,424 webscraper INFO Searching Tajikistan...
+08:53:41,426 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:41,486 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tajikistan HTTP/1.1" 301 None
+08:53:41,584 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tajikistan/ HTTP/1.1" 200 None
+08:53:41,587 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:41,754 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tajikistan HTTP/1.1" 200 None
+08:53:51,794 webscraper INFO ... 1 pages of filed articles ...
+08:53:51,795 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:53:51,939 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tajikistan/?page=0 HTTP/1.1" 200 None
+08:54:01,967 webscraper INFO ... and 2 pages of searched articles ...
+08:54:01,968 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:02,180 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tajikistan&page=0 HTTP/1.1" 200 None
+08:54:12,209 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:12,413 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tajikistan&page=1 HTTP/1.1" 200 None
+08:54:22,442 webscraper INFO SAVING FILES FOR Tajikistan
+08:54:22,552 webscraper INFO Searching Turkmenistan...
+08:54:22,554 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:22,613 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkmenistan HTTP/1.1" 301 None
+08:54:22,714 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkmenistan/ HTTP/1.1" 200 None
+08:54:22,718 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:22,856 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkmenistan HTTP/1.1" 200 None
+08:54:32,890 webscraper INFO ... 1 pages of filed articles ...
+08:54:32,891 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:33,13 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkmenistan/?page=0 HTTP/1.1" 200 None
+08:54:43,35 webscraper INFO ... and 1 pages of searched articles ...
+08:54:43,36 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:43,162 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkmenistan&page=0 HTTP/1.1" 200 None
+08:54:53,222 webscraper INFO SAVING FILES FOR Turkmenistan
+08:54:53,333 webscraper INFO Searching Tunisia...
+08:54:53,334 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:53,396 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tunisia HTTP/1.1" 301 None
+08:54:53,510 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tunisia/ HTTP/1.1" 200 None
+08:54:53,513 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:54:53,680 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tunisia HTTP/1.1" 200 None
+08:55:03,720 webscraper INFO ... 1 pages of filed articles ...
+08:55:03,721 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:03,886 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tunisia/?page=0 HTTP/1.1" 200 None
+08:55:13,910 webscraper INFO ... and 2 pages of searched articles ...
+08:55:13,911 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:14,113 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tunisia&page=0 HTTP/1.1" 200 None
+08:55:24,144 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:24,346 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tunisia&page=1 HTTP/1.1" 200 None
+08:55:34,374 webscraper INFO SAVING FILES FOR Tunisia
+08:55:34,485 webscraper INFO Searching Turkey...
+08:55:34,487 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:34,545 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkey HTTP/1.1" 301 None
+08:55:34,782 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkey/ HTTP/1.1" 200 None
+08:55:34,785 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:35,1 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey HTTP/1.1" 200 None
+08:55:45,50 webscraper INFO ... 1 pages of filed articles ...
+08:55:45,51 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:45,384 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Turkey/?page=0 HTTP/1.1" 200 None
+08:55:55,417 webscraper INFO ... and 9 pages of searched articles ...
+08:55:55,419 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:55:55,603 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=0 HTTP/1.1" 200 None
+08:56:05,633 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:05,803 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=1 HTTP/1.1" 200 None
+08:56:15,834 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:16,15 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=2 HTTP/1.1" 200 None
+08:56:26,40 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:26,247 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=3 HTTP/1.1" 200 None
+08:56:36,277 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:36,490 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=4 HTTP/1.1" 200 None
+08:56:46,521 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:46,705 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=5 HTTP/1.1" 200 None
+08:56:56,735 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:56:56,923 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=6 HTTP/1.1" 200 None
+08:57:06,953 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:07,140 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=7 HTTP/1.1" 200 None
+08:57:17,171 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:17,388 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Turkey&page=8 HTTP/1.1" 200 None
+08:57:27,416 webscraper INFO SAVING FILES FOR Turkey
+08:57:27,529 webscraper INFO Searching Trinidad and Tobago...
+08:57:27,530 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:27,589 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Trinidad%20and%20Tobago HTTP/1.1" 301 None
+08:57:27,648 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Trinidad%20and%20Tobago/ HTTP/1.1" 404 None
+08:57:27,651 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:27,779 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Trinidad%20and%20Tobago HTTP/1.1" 200 None
+08:57:37,810 webscraper INFO ... 1 pages of filed articles ...
+08:57:37,812 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:37,915 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Trinidad%20and%20Tobago/?page=0 HTTP/1.1" 404 None
+08:57:47,935 webscraper INFO ... and 1 pages of searched articles ...
+08:57:47,936 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:48,62 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Trinidad%20and%20Tobago&page=0 HTTP/1.1" 200 None
+08:57:58,86 webscraper INFO SAVING FILES FOR Trinidad and Tobago
+08:57:58,198 webscraper INFO Searching Taiwan...
+08:57:58,199 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:58,277 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Taiwan HTTP/1.1" 301 None
+08:57:58,417 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Taiwan/ HTTP/1.1" 200 None
+08:57:58,420 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:57:58,604 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Taiwan HTTP/1.1" 200 None
+08:58:08,643 webscraper INFO ... 1 pages of filed articles ...
+08:58:08,646 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:08,805 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Taiwan/?page=0 HTTP/1.1" 200 None
+08:58:18,829 webscraper INFO ... and 2 pages of searched articles ...
+08:58:18,831 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:19,56 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Taiwan&page=0 HTTP/1.1" 200 None
+08:58:29,85 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:29,300 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Taiwan&page=1 HTTP/1.1" 200 None
+08:58:39,329 webscraper INFO SAVING FILES FOR Taiwan
+08:58:39,442 webscraper INFO Searching Tanzania...
+08:58:39,443 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:39,505 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tanzania HTTP/1.1" 301 None
+08:58:39,663 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tanzania/ HTTP/1.1" 200 None
+08:58:39,666 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:39,841 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania HTTP/1.1" 200 None
+08:58:49,884 webscraper INFO ... 1 pages of filed articles ...
+08:58:49,885 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:58:50,114 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Tanzania/?page=0 HTTP/1.1" 200 None
+08:59:00,140 webscraper INFO ... and 5 pages of searched articles ...
+08:59:00,141 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:00,335 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania&page=0 HTTP/1.1" 200 None
+08:59:10,364 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:10,580 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania&page=1 HTTP/1.1" 200 None
+08:59:20,611 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:20,825 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania&page=2 HTTP/1.1" 200 None
+08:59:30,855 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:31,54 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania&page=3 HTTP/1.1" 200 None
+08:59:41,84 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:41,276 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Tanzania&page=4 HTTP/1.1" 200 None
+08:59:51,305 webscraper INFO SAVING FILES FOR Tanzania
+08:59:51,419 webscraper INFO Searching Ukraine...
+08:59:51,420 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:51,479 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Ukraine HTTP/1.1" 301 None
+08:59:51,564 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Ukraine/ HTTP/1.1" 200 None
+08:59:51,568 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+08:59:51,717 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Ukraine HTTP/1.1" 200 None
+09:00:01,753 webscraper INFO ... 1 pages of filed articles ...
+09:00:01,754 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:01,965 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Ukraine/?page=0 HTTP/1.1" 200 None
+09:00:11,988 webscraper INFO ... and 1 pages of searched articles ...
+09:00:11,991 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:12,177 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Ukraine&page=0 HTTP/1.1" 200 None
+09:00:22,244 webscraper INFO SAVING FILES FOR Ukraine
+09:00:22,355 webscraper INFO Searching Uganda...
+09:00:22,357 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:22,428 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uganda HTTP/1.1" 301 None
+09:00:22,619 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uganda/ HTTP/1.1" 200 None
+09:00:22,623 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:22,820 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uganda HTTP/1.1" 200 None
+09:00:32,862 webscraper INFO ... 1 pages of filed articles ...
+09:00:32,863 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:33,59 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uganda/?page=0 HTTP/1.1" 200 None
+09:00:43,86 webscraper INFO ... and 3 pages of searched articles ...
+09:00:43,87 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:43,277 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uganda&page=0 HTTP/1.1" 200 None
+09:00:53,308 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:00:53,475 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uganda&page=1 HTTP/1.1" 200 None
+09:01:03,504 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:03,718 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uganda&page=2 HTTP/1.1" 200 None
+09:01:13,746 webscraper INFO SAVING FILES FOR Uganda
+09:01:13,862 webscraper INFO Searching United States...
+09:01:13,864 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:13,923 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /United%20States HTTP/1.1" 301 None
+09:01:14,164 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /United%20States/ HTTP/1.1" 200 None
+09:01:14,167 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:14,339 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States HTTP/1.1" 200 None
+09:01:24,389 webscraper INFO ... 2 pages of filed articles ...
+09:01:24,390 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:24,706 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /United%20States/?page=0 HTTP/1.1" 200 None
+09:01:34,742 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:35,77 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /United%20States/?page=1 HTTP/1.1" 200 None
+09:01:45,111 webscraper INFO ... and 39 pages of searched articles ...
+09:01:45,113 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:45,299 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=0 HTTP/1.1" 200 None
+09:01:55,328 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:01:55,498 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=1 HTTP/1.1" 200 None
+09:02:05,529 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:05,743 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=2 HTTP/1.1" 200 None
+09:02:15,772 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:15,952 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=3 HTTP/1.1" 200 None
+09:02:25,982 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:26,187 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=4 HTTP/1.1" 200 None
+09:02:36,218 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:36,386 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=5 HTTP/1.1" 200 None
+09:02:46,416 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:46,589 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=6 HTTP/1.1" 200 None
+09:02:56,619 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:02:56,831 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=7 HTTP/1.1" 200 None
+09:03:06,862 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:07,46 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=8 HTTP/1.1" 200 None
+09:03:17,76 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:17,267 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=9 HTTP/1.1" 200 None
+09:03:27,297 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:27,511 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=10 HTTP/1.1" 200 None
+09:03:37,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:37,734 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=11 HTTP/1.1" 200 None
+09:03:47,763 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:47,954 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=12 HTTP/1.1" 200 None
+09:03:57,984 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:03:58,173 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=13 HTTP/1.1" 200 None
+09:04:08,204 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:04:08,401 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=14 HTTP/1.1" 200 None
+09:04:18,431 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:04:19,679 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=15 HTTP/1.1" 200 None
+09:04:29,708 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:04:29,914 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=16 HTTP/1.1" 200 None
+09:04:39,943 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:04:40,161 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=17 HTTP/1.1" 200 None
+09:04:50,190 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:04:50,402 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=18 HTTP/1.1" 200 None
+09:05:00,432 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:00,618 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=19 HTTP/1.1" 200 None
+09:05:10,647 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:10,852 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=20 HTTP/1.1" 200 None
+09:05:20,881 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:21,116 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=21 HTTP/1.1" 200 None
+09:05:31,146 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:31,363 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=22 HTTP/1.1" 200 None
+09:05:41,393 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:41,581 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=23 HTTP/1.1" 200 None
+09:05:51,644 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:05:51,868 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=24 HTTP/1.1" 200 None
+09:06:01,898 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:02,104 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=25 HTTP/1.1" 200 None
+09:06:12,134 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:12,302 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=26 HTTP/1.1" 200 None
+09:06:22,333 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:22,510 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=27 HTTP/1.1" 200 None
+09:06:32,540 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:32,738 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=28 HTTP/1.1" 200 None
+09:06:42,768 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:42,952 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=29 HTTP/1.1" 200 None
+09:06:52,984 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:06:53,185 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=30 HTTP/1.1" 200 None
+09:07:03,214 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:03,426 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=31 HTTP/1.1" 200 None
+09:07:13,456 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:13,639 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=32 HTTP/1.1" 200 None
+09:07:23,670 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:23,856 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=33 HTTP/1.1" 200 None
+09:07:33,886 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:34,74 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=34 HTTP/1.1" 200 None
+09:07:44,103 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:44,309 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=35 HTTP/1.1" 200 None
+09:07:54,340 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:07:54,512 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=36 HTTP/1.1" 200 None
+09:08:04,542 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:04,763 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=37 HTTP/1.1" 200 None
+09:08:14,793 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:14,996 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=United%20States&page=38 HTTP/1.1" 200 None
+09:08:25,25 webscraper INFO SAVING FILES FOR United States
+09:08:25,146 webscraper INFO Searching Uruguay...
+09:08:25,147 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:25,206 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uruguay HTTP/1.1" 301 None
+09:08:25,379 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uruguay/ HTTP/1.1" 200 None
+09:08:25,382 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:25,554 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uruguay HTTP/1.1" 200 None
+09:08:35,595 webscraper INFO ... 1 pages of filed articles ...
+09:08:35,598 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:35,784 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uruguay/?page=0 HTTP/1.1" 200 None
+09:08:45,810 webscraper INFO ... and 2 pages of searched articles ...
+09:08:45,811 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:46,29 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uruguay&page=0 HTTP/1.1" 200 None
+09:08:56,60 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:08:56,255 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uruguay&page=1 HTTP/1.1" 200 None
+09:09:06,283 webscraper INFO SAVING FILES FOR Uruguay
+09:09:06,406 webscraper INFO Searching Uzbekistan...
+09:09:06,408 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:06,468 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uzbekistan HTTP/1.1" 301 None
+09:09:06,537 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uzbekistan/ HTTP/1.1" 200 None
+09:09:06,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:06,706 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uzbekistan HTTP/1.1" 200 None
+09:09:16,745 webscraper INFO ... 1 pages of filed articles ...
+09:09:16,746 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:16,858 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Uzbekistan/?page=0 HTTP/1.1" 200 None
+09:09:26,880 webscraper INFO ... and 2 pages of searched articles ...
+09:09:26,881 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:27,47 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uzbekistan&page=0 HTTP/1.1" 200 None
+09:09:37,77 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:37,302 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Uzbekistan&page=1 HTTP/1.1" 200 None
+09:09:47,331 webscraper INFO SAVING FILES FOR Uzbekistan
+09:09:47,452 webscraper INFO Searching Venezuela...
+09:09:47,453 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:47,514 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Venezuela HTTP/1.1" 301 None
+09:09:47,612 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Venezuela/ HTTP/1.1" 200 None
+09:09:47,616 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:47,747 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Venezuela HTTP/1.1" 200 None
+09:09:57,782 webscraper INFO ... 1 pages of filed articles ...
+09:09:57,784 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:09:57,901 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Venezuela/?page=0 HTTP/1.1" 200 None
+09:10:07,923 webscraper INFO ... and 1 pages of searched articles ...
+09:10:07,926 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:08,104 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Venezuela&page=0 HTTP/1.1" 200 None
+09:10:18,129 webscraper INFO SAVING FILES FOR Venezuela
+09:10:18,249 webscraper INFO Searching British Virgin Islands...
+09:10:18,251 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:18,312 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /British%20Virgin%20Islands HTTP/1.1" 301 None
+09:10:18,389 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /British%20Virgin%20Islands/ HTTP/1.1" 200 None
+09:10:18,392 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:18,564 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=British%20Virgin%20Islands HTTP/1.1" 200 None
+09:10:28,604 webscraper INFO ... 1 pages of filed articles ...
+09:10:28,605 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:28,727 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /British%20Virgin%20Islands/?page=0 HTTP/1.1" 200 None
+09:10:38,750 webscraper INFO ... and 2 pages of searched articles ...
+09:10:38,752 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:38,935 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=British%20Virgin%20Islands&page=0 HTTP/1.1" 200 None
+09:10:48,964 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:49,149 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=British%20Virgin%20Islands&page=1 HTTP/1.1" 200 None
+09:10:59,178 webscraper INFO SAVING FILES FOR British Virgin Islands
+09:10:59,300 webscraper INFO Searching Vietnam...
+09:10:59,302 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:59,364 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Vietnam HTTP/1.1" 301 None
+09:10:59,557 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Vietnam/ HTTP/1.1" 200 None
+09:10:59,560 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:10:59,763 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam HTTP/1.1" 200 None
+09:11:09,809 webscraper INFO ... 1 pages of filed articles ...
+09:11:09,812 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:11:10,131 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Vietnam/?page=0 HTTP/1.1" 200 None
+09:11:20,201 webscraper INFO ... and 7 pages of searched articles ...
+09:11:20,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:11:20,384 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=0 HTTP/1.1" 200 None
+09:11:30,414 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:11:30,631 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=1 HTTP/1.1" 200 None
+09:11:40,661 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:11:40,847 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=2 HTTP/1.1" 200 None
+09:11:50,878 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:11:51,69 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=3 HTTP/1.1" 200 None
+09:12:01,98 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:01,312 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=4 HTTP/1.1" 200 None
+09:12:11,342 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:11,511 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=5 HTTP/1.1" 200 None
+09:12:21,541 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:21,715 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Vietnam&page=6 HTTP/1.1" 200 None
+09:12:31,744 webscraper INFO SAVING FILES FOR Vietnam
+09:12:31,867 webscraper INFO Searching Yemen...
+09:12:31,868 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:31,928 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Yemen HTTP/1.1" 301 None
+09:12:32,1 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Yemen/ HTTP/1.1" 200 None
+09:12:32,4 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:32,155 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Yemen HTTP/1.1" 200 None
+09:12:42,192 webscraper INFO ... 1 pages of filed articles ...
+09:12:42,193 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:42,329 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Yemen/?page=0 HTTP/1.1" 200 None
+09:12:52,352 webscraper INFO ... and 1 pages of searched articles ...
+09:12:52,354 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:12:52,503 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Yemen&page=0 HTTP/1.1" 200 None
+09:13:02,529 webscraper INFO SAVING FILES FOR Yemen
+09:13:02,653 webscraper INFO Searching South Africa...
+09:13:02,654 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:02,718 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /South%20Africa HTTP/1.1" 301 None
+09:13:03,3 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /South%20Africa/ HTTP/1.1" 200 None
+09:13:03,6 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:03,182 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa HTTP/1.1" 200 None
+09:13:13,232 webscraper INFO ... 2 pages of filed articles ...
+09:13:13,235 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:13,544 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /South%20Africa/?page=0 HTTP/1.1" 200 None
+09:13:23,579 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:23,867 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /South%20Africa/?page=1 HTTP/1.1" 200 None
+09:13:33,902 webscraper INFO ... and 14 pages of searched articles ...
+09:13:33,904 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:34,83 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=0 HTTP/1.1" 200 None
+09:13:44,113 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:44,327 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=1 HTTP/1.1" 200 None
+09:13:54,357 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:13:54,539 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=2 HTTP/1.1" 200 None
+09:14:04,570 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:04,743 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=3 HTTP/1.1" 200 None
+09:14:14,773 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:14,950 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=4 HTTP/1.1" 200 None
+09:14:24,980 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:25,166 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=5 HTTP/1.1" 200 None
+09:14:35,195 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:35,364 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=6 HTTP/1.1" 200 None
+09:14:45,394 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:45,591 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=7 HTTP/1.1" 200 None
+09:14:55,621 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:14:55,812 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=8 HTTP/1.1" 200 None
+09:15:05,842 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:06,26 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=9 HTTP/1.1" 200 None
+09:15:16,55 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:16,228 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=10 HTTP/1.1" 200 None
+09:15:26,258 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:26,478 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=11 HTTP/1.1" 200 None
+09:15:36,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:36,702 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=12 HTTP/1.1" 200 None
+09:15:46,733 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:46,938 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=South%20Africa&page=13 HTTP/1.1" 200 None
+09:15:56,967 webscraper INFO SAVING FILES FOR South Africa
+09:15:57,92 webscraper INFO Searching Zambia...
+09:15:57,94 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:57,155 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zambia HTTP/1.1" 301 None
+09:15:57,298 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zambia/ HTTP/1.1" 200 None
+09:15:57,301 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:15:57,471 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zambia HTTP/1.1" 200 None
+09:16:07,514 webscraper INFO ... 1 pages of filed articles ...
+09:16:07,515 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:07,720 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zambia/?page=0 HTTP/1.1" 200 None
+09:16:17,747 webscraper INFO ... and 4 pages of searched articles ...
+09:16:17,748 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:17,952 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zambia&page=0 HTTP/1.1" 200 None
+09:16:27,982 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:28,185 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zambia&page=1 HTTP/1.1" 200 None
+09:16:38,253 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:38,436 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zambia&page=2 HTTP/1.1" 200 None
+09:16:48,466 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:48,683 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zambia&page=3 HTTP/1.1" 200 None
+09:16:58,712 webscraper INFO SAVING FILES FOR Zambia
+09:16:58,840 webscraper INFO Searching Zimbabwe...
+09:16:58,841 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:58,901 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zimbabwe HTTP/1.1" 301 None
+09:16:58,993 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zimbabwe/ HTTP/1.1" 200 None
+09:16:58,996 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:16:59,161 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zimbabwe HTTP/1.1" 200 None
+09:17:09,201 webscraper INFO ... 1 pages of filed articles ...
+09:17:09,202 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:17:09,340 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /Zimbabwe/?page=0 HTTP/1.1" 200 None
+09:17:19,364 webscraper INFO ... and 1 pages of searched articles ...
+09:17:19,366 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:17:19,529 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search/?q=Zimbabwe&page=0 HTTP/1.1" 200 None
+09:17:29,556 webscraper INFO SAVING FILES FOR Zimbabwe
+09:17:29,726 webscraper INFO Pulling text from filed articles ...
+09:17:29,729 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:17:29,791 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /review-vair-spa-borgo-egnazia-puglia-italy/ HTTP/1.1" 200 None
+09:17:39,820 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:17:39,942 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /belmond-hotel-villa-sant-andrea-taormina-sicily/ HTTP/1.1" 200 None
+09:17:49,971 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:17:50,193 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /safari-zambia-zimbabwe-africa/ HTTP/1.1" 200 None
+09:18:00,227 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:00,351 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /reader-story-zach-galifianakis-austria/ HTTP/1.1" 200 None
+09:18:10,378 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:10,568 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /summer-sardinia-beach-vacation-photos/ HTTP/1.1" 200 None
+09:18:20,599 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:20,732 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /dominio-del-plata-winery-mendoza-argentina/ HTTP/1.1" 200 None
+09:18:30,761 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:30,891 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /ett-hem-hotel-review-stockholm-sweden/ HTTP/1.1" 200 None
+09:18:40,922 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:41,45 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-ljubljana-slovenia-spotted-by-locals/ HTTP/1.1" 200 None
+09:18:51,77 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:18:51,242 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /cheap-eats-fun-parties-shanghai/ HTTP/1.1" 200 None
+09:19:01,274 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:01,505 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /eye-candy-photos-andalusia-spain/ HTTP/1.1" 200 None
+09:19:11,538 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:11,684 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /search-and-state-usa-bikepacking-trip/ HTTP/1.1" 200 None
+09:19:21,715 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:21,848 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /frozen-lake-sweden/ HTTP/1.1" 200 None
+09:19:31,874 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:32,76 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /crop-over-festival-barbados/ HTTP/1.1" 200 None
+09:19:42,106 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:42,173 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /review-montage-los-cabos-hotel-mexico/ HTTP/1.1" 200 None
+09:19:52,198 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:19:52,429 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /iceland-photos/ HTTP/1.1" 200 None
+09:20:02,464 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:02,692 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /pictures-of-bali-indonesia/ HTTP/1.1" 200 None
+09:20:12,726 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:12,884 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-in-israel/ HTTP/1.1" 200 None
+09:20:22,914 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:23,42 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /hotel-unico-review-madrid-spain/ HTTP/1.1" 200 None
+09:20:33,70 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:33,248 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /eremo-delle-grazie-hotel-spoleto-italy/ HTTP/1.1" 200 None
+09:20:43,279 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:43,420 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-eat-drink-do-zurich/ HTTP/1.1" 200 None
+09:20:53,453 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:20:53,592 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-yangon-burma/ HTTP/1.1" 200 None
+09:21:03,623 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:03,785 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /ducasse-street-food-vieques/ HTTP/1.1" 200 None
+09:21:13,813 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:13,942 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /worlds-best-hotels-amanruya-bodrum/ HTTP/1.1" 200 None
+09:21:23,971 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:24,116 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /buenos-aires-street-food-jog/ HTTP/1.1" 200 None
+09:21:34,146 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:34,270 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-in-chincoteague-virginia/ HTTP/1.1" 200 None
+09:21:44,301 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:44,427 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /vinicunca-mountain-rainbow-mountain-peru/ HTTP/1.1" 200 None
+09:21:54,456 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:21:54,596 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /chef-simone-tong-yunnan-food-china/ HTTP/1.1" 200 None
+09:22:04,625 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:04,752 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /savannah-georgia-travel-guide/ HTTP/1.1" 200 None
+09:22:14,783 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:14,912 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /travel-guide-el-salvador/ HTTP/1.1" 200 None
+09:22:24,953 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:25,113 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /best-times-to-travel-bermuda/ HTTP/1.1" 200 None
+09:22:35,179 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:35,323 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /cairo-egypt-guide-2018/ HTTP/1.1" 200 None
+09:22:45,364 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:45,501 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /who-you-calling-chicken-turkey/ HTTP/1.1" 200 None
+09:22:55,529 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:22:55,665 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /visit-ca-del-bosco-franciacorta/ HTTP/1.1" 200 None
+09:23:05,697 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:05,825 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /recipe-peppercorn-catfish-num-pang/ HTTP/1.1" 200 None
+09:23:15,855 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:15,980 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /bermuda-for-every-travel-personality/ HTTP/1.1" 200 None
+09:23:26,11 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:26,134 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /where-to-shop-dinner-party-florence/ HTTP/1.1" 200 None
+09:23:36,165 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:36,304 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /where-to-tango-buenos-aires/ HTTP/1.1" 200 None
+09:23:46,333 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:46,480 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /london-weekend-getaways/ HTTP/1.1" 200 None
+09:23:56,508 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:23:56,694 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /where-to-celebrate-30th-birthday/ HTTP/1.1" 200 None
+09:24:06,730 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:06,859 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /where-you-can-find-cuba-miami/ HTTP/1.1" 200 None
+09:24:16,892 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:17,33 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /buenos-aires-argentina-contemporary-dining/ HTTP/1.1" 200 None
+09:24:27,63 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:27,202 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /ljubljana-indie-guides/ HTTP/1.1" 200 None
+09:24:37,233 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:37,375 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /contemporary-bars-restaurants-museums-rome/ HTTP/1.1" 200 None
+09:24:47,409 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:47,548 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-tel-aviv-israel/ HTTP/1.1" 200 None
+09:24:57,578 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:24:57,747 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /exciting-travel-destinations-2015/ HTTP/1.1" 200 None
+09:25:07,778 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:08,19 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /brijuni-islands-croatia/ HTTP/1.1" 200 None
+09:25:18,58 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:18,185 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /where-to-shop-antwerp-belgium/ HTTP/1.1" 200 None
+09:25:28,215 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:28,352 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /venissa-wine-resort-mazzorbo/ HTTP/1.1" 200 None
+09:25:38,384 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:38,524 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /chef-angie-mar-favorite-spain-restaurants/ HTTP/1.1" 200 None
+09:25:48,550 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:48,708 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /review-fogo-island-inn-newfoundland-canada/ HTTP/1.1" 200 None
+09:25:58,740 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:25:58,893 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /why-its-great-to-travel-alone/ HTTP/1.1" 200 None
+09:26:08,922 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:09,48 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /steve-mccurry-interview-uganda/ HTTP/1.1" 200 None
+09:26:19,77 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:19,199 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /thom-pierce-kenya-photo-story/ HTTP/1.1" 200 None
+09:26:29,228 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:29,370 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /italy-florence-fiesole-dinner-party/ HTTP/1.1" 200 None
+09:26:39,399 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:39,524 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /hari-raya-celebration-malaysia/ HTTP/1.1" 200 None
+09:26:49,553 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:49,689 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /mountain-gorillas-rwanda/ HTTP/1.1" 200 None
+09:26:59,720 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:26:59,856 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /banyan-tree-cabo-marques-acapulco-mexico-hotel-review/ HTTP/1.1" 200 None
+09:27:09,887 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:27:10,14 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /toponymity-serendipity/ HTTP/1.1" 200 None
+09:27:20,43 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:27:20,210 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-krakow-poland/ HTTP/1.1" 200 None
+09:27:30,241 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:27:30,366 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /greece-drinking-guide/ HTTP/1.1" 200 None
+09:27:40,398 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:27:40,533 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /attempt-define-danish-hygge/ HTTP/1.1" 200 None
+09:27:50,563 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:27:50,691 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /worlds-best-restaurant-mirazur-menton-france/ HTTP/1.1" 200 None
+09:28:00,723 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:00,857 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /japan-genderless-danshi-video/ HTTP/1.1" 200 None
+09:28:10,887 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:11,28 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /review-lefay-resort-spa-lake-garda-italy/ HTTP/1.1" 200 None
+09:28:21,59 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:21,201 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-reykjavik-iceland/ HTTP/1.1" 200 None
+09:28:31,246 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:31,388 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /weekend-drive-monaco-nice-cote-dazur/ HTTP/1.1" 200 None
+09:28:41,419 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:41,553 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /best-restaurants-burlington-vermont/ HTTP/1.1" 200 None
+09:28:51,618 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:28:51,773 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /cuban-recipe-garbanzo-stew/ HTTP/1.1" 200 None
+09:29:01,806 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:01,955 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /namibia-road-trip-photography/ HTTP/1.1" 200 None
+09:29:11,986 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:12,131 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /win-cool-trips-goa-barcelona-and-mexico/ HTTP/1.1" 200 None
+09:29:22,162 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:22,296 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /italian-romance-getaway/ HTTP/1.1" 200 None
+09:29:32,325 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:32,448 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /snakku-japanese-snacks-giveaway/ HTTP/1.1" 200 None
+09:29:42,477 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:42,601 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /trip-giveaway-andaz-peninsula-papagayo-costa-rica/ HTTP/1.1" 200 None
+09:29:52,631 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:29:52,756 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /wine-getaway-dominican-republic/ HTTP/1.1" 200 None
+09:30:02,787 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:02,979 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /win-magical-trip-istanbul/ HTTP/1.1" 200 None
+09:30:13,9 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:13,177 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /mandarin-oriental-bodrum-giveaway-2015/ HTTP/1.1" 200 None
+09:30:23,207 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:23,334 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /win-travel-giveaway-to-hong-kong/ HTTP/1.1" 200 None
+09:30:33,365 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:33,488 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /india-trip-giveaway/ HTTP/1.1" 200 None
+09:30:43,518 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:43,658 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /vorovoro-fiji-voluntourism/ HTTP/1.1" 200 None
+09:30:53,688 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:30:53,819 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /giving-back-voluntourism-tips/ HTTP/1.1" 200 None
+09:31:03,849 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:04,13 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /volunteer-havana-cuba/ HTTP/1.1" 200 None
+09:31:14,45 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:14,175 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /pachamama-alliance-rain-forest-south-america/ HTTP/1.1" 200 None
+09:31:24,206 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:24,378 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /le-marche-italy-instagram-tour/ HTTP/1.1" 200 None
+09:31:34,407 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:34,549 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /cote-dazur-villages-itinerary/ HTTP/1.1" 200 None
+09:31:44,580 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:44,712 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /recipe-mango-tumeric-smoothie/ HTTP/1.1" 200 None
+09:31:54,742 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:31:54,873 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /what-to-do-vieques-puerto-rico/ HTTP/1.1" 200 None
+09:32:04,906 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:05,111 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /kids-try-ethiopian-food-video/ HTTP/1.1" 200 None
+09:32:15,140 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:15,269 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /victoria-australia-photo-tour/ HTTP/1.1" 200 None
+09:32:25,301 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:25,457 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /ski-w-hotel-verbier-switzerland/ HTTP/1.1" 200 None
+09:32:35,492 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:35,616 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /naked-castle-review-moganshan-china/ HTTP/1.1" 200 None
+09:32:45,649 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:45,786 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /best-paris-vacation-apartment-rental-companies/ HTTP/1.1" 200 None
+09:32:55,820 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:32:56,97 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /photos-goldeneye-jamaica/ HTTP/1.1" 200 None
+09:33:06,135 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:33:06,269 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /learning-to-kitesurf-zarzis-tunisia/ HTTP/1.1" 200 None
+09:33:16,299 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:33:16,423 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /travel-video-rio-de-janeiro/ HTTP/1.1" 200 None
+09:33:26,456 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:33:26,582 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /marrakech-film/ HTTP/1.1" 200 None
+09:33:36,611 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:33:36,735 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /travel-video-copenhagen/ HTTP/1.1" 200 None
+09:33:46,758 urllib3.connectionpool DEBUG Starting new HTTPS connection (1): fathomaway.com:443
+09:33:46,918 urllib3.connectionpool DEBUG https://fathomaway.com:443 "GET /japanese-bento-box-tools/ HTTP/1.1" 200 None
